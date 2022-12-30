@@ -1,9 +1,14 @@
-### Hello, I'm Eric. 👋
+# Hello, I'm Eric. 👋
 
-## - Father of two
-## - Coffee fanatic
-## - Doing ☁️ engineering in the Pacific Northwest
+- Father of two
+- Coffee fanatic
+- Doing ☁️ engineering in the Pacific Northwest
 
+## I'm a huge fan of AWS
+
+<a href="https://www.credly.com/badges/e9c8fd78-5eac-45a5-b2b9-5c14ff2e2d4a/linked_in_profile">
+<img class="icon-image" height="100" src="https://github.com/ericmhayes/ericmhayes/master/images/aws_solutions_architect_badge.png" alt="AWS Certified Solutions Architect Associate" />    
+</a>
 
 <!--
 **ericmhayes/ericmhayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
