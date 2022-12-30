@@ -1,5 +1,8 @@
 ### Hello, I'm Eric. 👋
 
+## - Father of two
+## - Coffee fanatic
+## - Doing ☁️ engineering in the Pacific Northwest
 
 
 <!--
