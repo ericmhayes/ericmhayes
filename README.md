@@ -1,6 +1,6 @@
 # Hello, I'm Eric. 👋
 
-- Coffee fanatic
+- ☕ Coffee fanatic
 - Doing ☁️ engineering in the Pacific Northwest
 
 ### I'm a huge fan of AWS
