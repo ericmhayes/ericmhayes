@@ -2,6 +2,7 @@
 
 - ☕ Coffee fanatic
 - Doing ☁️ engineering in the Pacific Northwest
+- SRE in the Health-Tech industry
 
 ### I'm a huge fan of AWS
 
