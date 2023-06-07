@@ -1,7 +1,7 @@
 # Hello, I'm Eric. 👋
 
 - ☕ Coffee fanatic
-- Doing ☁️ engineering in the Pacific Northwest
+- Doing ☁️ engineering in the Portland, OR
 - SRE in the Health-Tech industry
 
 ### Current Certifications
