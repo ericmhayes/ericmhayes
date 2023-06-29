@@ -15,6 +15,7 @@
 <img class="icon-image" height="100" src="https://github.com/ericmhayes/ericmhayes/blob/main/images/terraform_associate_badge.png" alt="Hashicorp Terraform Associate" />    
 </a>
 
+
 <!--
 **ericmhayes/ericmhayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
