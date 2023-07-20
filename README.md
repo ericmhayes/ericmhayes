@@ -1,8 +1,9 @@
 # Hello, I'm Eric. 👋
 
 - ☕ Coffee fanatic
-- Doing ☁️ engineering in the Portland, OR
-- SRE in the Health-Tech industry
+- Loves to travel ✈️ and trying local cuisine 🥘
+- Auburn Fan (War Eagle!) 🐯
+- SRE in the Health-Tech industry 💻
 
 ### Current Certifications
 
