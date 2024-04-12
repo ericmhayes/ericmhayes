@@ -2,7 +2,7 @@
 
 - ☕ Coffee fanatic
 - Loves to travel ✈️ and trying local cuisine 🥘
-- Auburn Fan (War Eagle!) 🐯
+- Auburn Fan (War Eagle!) 🐯 🦅
 - SRE in the Health-Tech industry 💻
 
 ### Current Certifications
