@@ -10,6 +10,9 @@
 <a href="https://www.credly.com/badges/e9c8fd78-5eac-45a5-b2b9-5c14ff2e2d4a/linked_in_profile">
 <img class="icon-image" height="100" src="https://github.com/ericmhayes/ericmhayes/blob/main/images/aws_solutions_architect_badge.png" alt="AWS Certified Solutions Architect Associate" />    
 </a>
+<a href="https://www.credly.com/badges/e9c8fd78-5eac-45a5-b2b9-5c14ff2e2d4a/linked_in_profile">
+<img class="icon-image" height="100" src="https://github.com/ericmhayes/ericmhayes/blob/main/images/aws_security_specialty_badge.png" alt="AWS Certified Security - Speciality" />    
+</a>
 
 
 <!--
