@@ -1,10 +1,5 @@
 # Hello, I'm Eric. 👋
 
-- ☕ Coffee fanatic
-- Loves to travel ✈️ and trying local cuisine 🥘
-- Auburn Fan (War Eagle!) 🐯 🦅
-- SRE in the Health-Tech industry 💻
-
 ### Certifications
 
 <a href="https://www.credly.com/badges/e9c8fd78-5eac-45a5-b2b9-5c14ff2e2d4a/linked_in_profile">
